@@ -1,0 +1,87 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-6093682830571368/6920344994",
+        "nativeid": "ca-app-pub-6093682830571368/1729735671",
+        "openid":"ca-app-pub-6093682830571368/9416654008",
+        "interval": 2,
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+     
+        }
+    ],
+    
+  
+
+
+"Categories": [
+    {
+      "id": 1,
+      "nama_cat": "guide",
+      "gambar": ""
+     
+    }
+    ],
+
+  "Data":
+[
+  {
+    "id":1,
+    "id_guide":"001",
+    "nama_cat":"guide",
+    "judul":"Guide 5",
+    "image":"https://modlivery.com/guide/tocalife/5.jpg",
+    "link":"https://modlivery.com/guide/tocalife/guide5.html",
+    "deskripsi":""
+  },
+  {
+    "id":2,
+    "id_guide":"002",
+    "nama_cat":"guide",
+    "judul":"Guide 4",
+    "image":"https://modlivery.com/guide/tocalife/4.jpg",
+    "link":"https://modlivery.com/guide/tocalife/guide4.html",
+    "deskripsi":""
+  },
+  {
+    "id":3,
+    "id_guide":"003",
+    "nama_cat":"guide",
+    "judul":"Guide 3",
+    "image":"https://modlivery.com/guide/tocalife/3.jpg",
+    "link":"https://modlivery.com/guide/tocalife/guide3.html",
+    "deskripsi":""
+  },
+    {
+    "id":4,
+    "id_guide":"004",
+    "nama_cat":"guide",
+    "judul":"Guide 2",
+    "image":"https://modlivery.com/guide/tocalife/2.jpg",
+    "link":"https://modlivery.com/guide/tocalife/guide2.html",
+    "deskripsi":""
+  },
+    {
+    "id":5,
+    "id_guide":"005",
+    "nama_cat":"guide",
+    "judul":"Guide 1",
+    "image":"https://modlivery.com/guide/tocalife/1.jpg",
+    "link":"https://modlivery.com/guide/tocalife/guide1.html",
+    "deskripsi":""
+  }
+
+
+
+]
+}
